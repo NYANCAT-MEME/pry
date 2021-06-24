@@ -1,4 +1,4 @@
-[![Circle Build Status](https://circleci.com/gh/pry/pry.svg?style=shield)](https://circleci.com/gh/pry/pry)
+[![Circle Build Status](https://circleci.com/gh/pry/pry.svg)](https://circleci.com/gh/pry/pry)
 [![Code Climate](https://codeclimate.com/github/pry/pry.svg)](https://codeclimate.com/github/pry/pry)
 [![Gem Version](https://badge.fury.io/rb/pry.svg)](http://badge.fury.io/rb/pry)
 [![Documentation Status](http://inch-ci.org/github/pry/pry.svg?branch=master)](http://inch-ci.org/github/pry/pry)
